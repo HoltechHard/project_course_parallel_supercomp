@@ -1,0 +1,5 @@
+1
+2
+7
+math.log(x)/x
+(math.log(2)**2)/2

@@ -1,0 +1,5 @@
+0
+1
+8
+math.exp(-x**2)
+math.sqrt(math.pi)/2 * math.erf(1)

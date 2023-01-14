@@ -1,0 +1,5 @@
+0
+math.pi
+2
+math.sin(x)
+2

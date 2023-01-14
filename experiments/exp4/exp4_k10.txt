@@ -1,0 +1,5 @@
+0.75
+1
+10
+math.atan(x)/(1+(1/x)**2)
+1/32 * (8*math.pi - (math.pi)**2 - 8 * (math.log(1024/625)) - 24 * math.atan(3/4) + 16 * (math.atan(3/4))**2)
