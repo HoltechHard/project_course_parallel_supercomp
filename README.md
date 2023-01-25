@@ -30,5 +30,8 @@ The project have:
    files inside the folders, contains the same parameters, except the value of quadrature k.  
    can do 5 different simulations for 5 different levels of quadrature.  
 5. Report of project  
-   file: ОТЧЁТ_ПАРАЛЛЕЛЬНОЕ_ПРОГРАММИРОВАНИЕ_СК.docx  
+   file: Final_ОТЧЁТ_ПАРАЛЛЕЛЬНОЕ_ПРОГРАММИРОВАНИЕ.docx  
+         Final_ОТЧЁТ_ПАРАЛЛЕЛЬНОЕ_ПРОГРАММИРОВАНИЕ.pdf
+6. Jupyter notebook with graphics of experiments
+   file: graphics_exp.ipynb
    
