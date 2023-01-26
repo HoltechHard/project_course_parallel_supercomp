@@ -1,6 +1,8 @@
 # Final Project: Course parallel programming in supercomputer
 
 Task 2 - Numerical Integration using method Newton-Cotes
+LINK VIDEO-EXPERIMENTS: 
+https://drive.google.com/drive/folders/1iEgp8xX0qo6JIcwQgWbtVyN-KFJAtkyO?usp=share_link
 
 Student: 
 ==========
