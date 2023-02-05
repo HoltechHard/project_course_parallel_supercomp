@@ -16,14 +16,16 @@ Content:
 
 The project have:
 
-1. Newton-cotes algorithm implemented in MPI + python    
+1. Parallel version of Newton-cotes algorithm implemented in MPI + python    
    file: newton_cotes_final1.py  
-2. Newton-cotes algorithm implemented in MPI + C  
+2. Parallel version of Newton-cotes algorithm implemented in MPI + C  
    file: newton_cotes_vc14.c  
-3. Newton-cotes algorithm implemented in Pthreads + C  
+3. Parallel version of Newton-cotes algorithm implemented in Pthreads + C  
    file: ncotes_pthreads_vc12.c  
-4. Newton-cotes algorithm implemented in Open-MP + C  
+4. Parallel version of Newton-cotes algorithm implemented in Open-MP + C  
    file: ncotes_openmp_vc2.c  
+5. Sequential version of Newton-cotes algorithm implemented in python
+   file: alg_newton_cotes_seq.py
 5. Library tinyexpr: library used for interpreter math-string functions and convert to   
    mathematic function which calculate numerical value of math-function given any input  
    (** necessary for implementations in C)  
