@@ -24,8 +24,8 @@ The project have:
    file: ncotes_pthreads_vc12.c  
 4. Parallel version of Newton-cotes algorithm implemented in Open-MP + C  
    file: ncotes_openmp_vc2.c  
-5. Sequential version of Newton-cotes algorithm implemented in python
-   file: alg_newton_cotes_seq.py
+5. Sequential version of Newton-cotes algorithm implemented in python  
+   file: alg_newton_cotes_seq.py  
 5. Library tinyexpr: library used for interpreter math-string functions and convert to   
    mathematic function which calculate numerical value of math-function given any input  
    (** necessary for implementations in C)  
